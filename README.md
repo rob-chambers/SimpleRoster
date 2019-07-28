@@ -1,2 +1,2 @@
 # BlazorRoster
-A rostering system developed in Blazor (part of .NET Core)
+A rostering system developed in Angular and .NET Core
